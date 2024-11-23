@@ -1,0 +1,705 @@
+[
+    {
+      "title": "GTFOBins",
+      "link": "https://gtfobins.github.io/",
+      "usage": "Exploit binaries for privilege escalation and reverse shells",
+      "keyword": "privilege escalation"
+    },
+    {
+      "title": "CyberChef",
+      "link": "https://gchq.github.io/CyberChef/",
+      "usage": "Perform data transformations such as encoding, decoding, and analysis",
+      "keyword": "cryptography"
+    },
+    {
+      "title": "RevShells",
+      "link": "https://revshells.com/",
+      "usage": "Generate reverse shell payloads for penetration testing",
+      "keyword": "reverse shells"
+    },
+    {
+      "title": "PayloadAllTheThings",
+      "link": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "usage": "Collection of payloads for web, network, and application security testing",
+      "keyword": "payloads"
+    },
+    {
+      "title": "Shodan",
+      "link": "https://www.shodan.io/",
+      "usage": "Search for devices and services exposed to the internet",
+      "keyword": "information gathering"
+    },
+    {
+      "title": "Exploit Database",
+      "link": "https://www.exploit-db.com/",
+      "usage": "Search and explore public exploits and proof-of-concept code",
+      "keyword": "exploit search"
+    },
+    {
+      "title": "Hashcat",
+      "link": "https://hashcat.net/hashcat/",
+      "usage": "Advanced password recovery and cracking tool",
+      "keyword": "password cracking"
+    },
+    {
+      "title": "OWASP ZAP",
+      "link": "https://owasp.org/www-project-zap/",
+      "usage": "Web application security scanner for finding vulnerabilities",
+      "keyword": "vulnerability scanning"
+    },
+    {
+      "title": "DNSDumpster",
+      "link": "https://dnsdumpster.com/",
+      "usage": "Perform DNS reconnaissance to gather subdomain and infrastructure information",
+      "keyword": "reconnaissance"
+    },
+    {
+      "title": "Burp Suite",
+      "link": "https://portswigger.net/burp",
+      "usage": "Web vulnerability scanner and proxy tool",
+      "keyword": "web security"
+    },
+    {
+      "title": "Base64 Decoder/Encoder",
+      "link": "https://www.base64decode.org/",
+      "usage": "Encode and decode Base64 strings",
+      "keyword": "encoding/decoding"
+    },
+    {
+      "title": "Sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "usage": "Find usernames across multiple online platforms",
+      "keyword": "information gathering"
+    },
+    {
+      "title": "HackTools",
+      "link": "https://hack.tools/",
+      "usage": "Generate payloads, reverse shells, and more for penetration testing",
+      "keyword": "hacking tools"
+    },
+    {
+      "title": "JSON Web Token Debugger",
+      "link": "https://jwt.io/",
+      "usage": "Decode, verify, and debug JSON Web Tokens (JWTs)",
+      "keyword": "debugging"
+    },
+    {
+      "title": "SSL Labs",
+      "link": "https://www.ssllabs.com/ssltest/",
+      "usage": "Test SSL/TLS configurations for vulnerabilities",
+      "keyword": "ssl testing"
+    },
+    {
+      "title": "CertGraph",
+      "link": "https://github.com/lanmaster53/certgraph",
+      "usage": "Map certificate trust relationships to identify weaknesses",
+      "keyword": "certificate analysis"
+    },
+    {
+      "title": "WhatWeb",
+      "link": "https://github.com/urbanadventurer/WhatWeb",
+      "usage": "Identify technologies and CMS running on websites",
+      "keyword": "reconnaissance"
+    },
+    {
+      "title": "VulnHub",
+      "link": "https://www.vulnhub.com/",
+      "usage": "Practice penetration testing using vulnerable virtual machines",
+      "keyword": "pentesting labs"
+    },
+    {
+      "title": "CrackStation",
+      "link": "https://crackstation.net/",
+      "usage": "Decrypt hashes using a comprehensive password-cracking database",
+      "keyword": "password cracking"
+    },
+    {
+      "title": "Security Headers",
+      "link": "https://securityheaders.com/",
+      "usage": "Analyze HTTP response headers for security misconfigurations",
+      "keyword": "header analysis"
+    },
+    {
+        "title": "SQLMap Command Generator",
+        "link": "https://acorzo1983.github.io/SQLMapCG",
+        "usage": "generating SQLmap commands",
+        "keyword": "commands"
+    },
+    {
+        "title": "The Harvester",
+        "link": "https://github.com/laramies/theHarvester",
+        "usage": "Gather emails, subdomains, and more from public sources",
+        "keyword": "information gathering"
+      },
+      {
+        "title": "Censys",
+        "link": "https://censys.io/",
+        "usage": "Search for devices and services exposed to the internet",
+        "keyword": "reconnaissance"
+      },
+      {
+        "title": "Netcraft",
+        "link": "https://www.netcraft.com/",
+        "usage": "Analyze web server configurations and internet threat reports",
+        "keyword": "web analysis"
+      },
+      {
+        "title": "Exploit Pack",
+        "link": "https://exploitpack.com/",
+        "usage": "Collection of tools for exploit creation and deployment",
+        "keyword": "exploitation"
+      },
+      {
+        "title": "Hybrid Analysis",
+        "link": "https://www.hybrid-analysis.com/",
+        "usage": "Scan files and URLs for malware detection",
+        "keyword": "malware analysis"
+      },
+      {
+        "title": "Have I Been Pwned",
+        "link": "https://haveibeenpwned.com/",
+        "usage": "Check if your email or password has been part of a data breach",
+        "keyword": "data breach"
+      },
+      {
+        "title": "SpiderFoot",
+        "link": "https://www.spiderfoot.net/",
+        "usage": "Automated OSINT gathering and threat intelligence",
+        "keyword": "OSINT"
+      },
+      {
+        "title": "Maltego",
+        "link": "https://www.maltego.com/",
+        "usage": "Perform link analysis and visualize OSINT relationships",
+        "keyword": "OSINT"
+      },
+      {
+        "title": "Metasploit",
+        "link": "https://www.metasploit.com/",
+        "usage": "Penetration testing framework for exploiting vulnerabilities",
+        "keyword": "penetration testing"
+      },
+      {
+        "title": "Nikto",
+        "link": "https://cirt.net/Nikto2",
+        "usage": "Web server scanner for identifying vulnerabilities",
+        "keyword": "vulnerability scanning"
+      },
+      {
+        "title": "Nuclei",
+        "link": "https://nuclei.projectdiscovery.io/",
+        "usage": "Send customizable requests to identify vulnerabilities",
+        "keyword": "vulnerability scanning"
+      },
+      {
+        "title": "Rapid7 InsightVM",
+        "link": "https://www.rapid7.com/products/insightvm/",
+        "usage": "Monitor vulnerabilities and assess security risks",
+        "keyword": "risk management"
+      },
+      {
+        "title": "Google Dorks",
+        "link": "https://www.exploit-db.com/google-hacking-database",
+        "usage": "Search for sensitive information using advanced Google queries",
+        "keyword": "information gathering"
+      },
+      {
+        "title": "Sublist3r",
+        "link": "https://github.com/aboul3la/Sublist3r",
+        "usage": "Gather subdomains for a given domain",
+        "keyword": "subdomain enumeration"
+      },
+      {
+        "title": "Amass",
+        "link": "https://github.com/OWASP/Amass",
+        "usage": "Perform network mapping and subdomain enumeration",
+        "keyword": "network mapping"
+      },
+      {
+        "title": "ImmuniWeb",
+        "link": "https://www.immuniweb.com/",
+        "usage": "Perform website and mobile app security testing",
+        "keyword": "web security"
+      },
+      {
+        "title": "ThreatCrowd",
+        "link": "https://www.threatcrowd.org/",
+        "usage": "Analyze domains, IPs, and malware relationships",
+        "keyword": "threat intelligence"
+      },
+      {
+        "title": "VirusTotal",
+        "link": "https://www.virustotal.com/",
+        "usage": "Scan URLs and files for malware and security threats",
+        "keyword": "malware analysis"
+      },
+      {
+        "title": "HackerOne",
+        "link": "https://www.hackerone.com/",
+        "usage": "Find bug bounty programs and report vulnerabilities",
+        "keyword": "bug bounty"
+      },
+      {
+        "title": "Bugcrowd",
+        "link": "https://www.bugcrowd.com/",
+        "usage": "Participate in bug bounty programs for ethical hacking",
+        "keyword": "bug bounty"
+      },
+      {
+        "title": "XSS Payloads",
+        "link": "https://github.com/payloadbox/xss-payload-list",
+        "usage": "Collection of XSS payloads for web testing",
+        "keyword": "web security"
+      },
+      {
+        "title": "Regex101",
+        "link": "https://regex101.com/",
+        "usage": "Test and debug regular expressions with explanations",
+        "keyword": "regex tools"
+      },
+      {
+        "title": "Pentest Tools",
+        "link": "https://pentest-tools.com/",
+        "usage": "Perform external penetration tests with automated tools",
+        "keyword": "penetration testing"
+      },
+      {
+        "title": "Exploit-DB Mirror",
+        "link": "https://github.com/offensive-security/exploitdb",
+        "usage": "Offline exploit database for vulnerabilities",
+        "keyword": "exploit search"
+      },
+      {
+        "title": "Packet Storm Security",
+        "link": "https://packetstormsecurity.com/",
+        "usage": "Explore exploits, advisories, and tools for security",
+        "keyword": "exploit search"
+      },
+      {
+        "title": "CrackMe",
+        "link": "https://crackmes.one/",
+        "usage": "Practice reverse engineering with crackme challenges",
+        "keyword": "reverse engineering"
+      },
+      {
+        "title": "SecLists",
+        "link": "https://github.com/danielmiessler/SecLists",
+        "usage": "Collection of wordlists for security assessments",
+        "keyword": "wordlists"
+      },
+      {
+        "title": "Pentest Monkey",
+        "link": "http://pentestmonkey.net/",
+        "usage": "Reverse shell cheat sheets and useful scripts",
+        "keyword": "pentesting"
+      },
+      {
+        "title": "SSLyze",
+        "link": "https://github.com/nabla-c0d3/sslyze",
+        "usage": "Perform fast and comprehensive SSL/TLS configuration analysis",
+        "keyword": "SSL analysis"
+      },
+      {
+        "title": "HTTrack",
+        "link": "https://www.httrack.com/",
+        "usage": "Copy websites for offline analysis",
+        "keyword": "website mirroring"
+      },
+      {
+        "title": "Sn1per",
+        "link": "https://github.com/1N3/Sn1per",
+        "usage": "Automated pentesting reconnaissance tool",
+        "keyword": "reconnaissance"
+      },
+      {
+        "title": "Binwalk",
+        "link": "https://github.com/ReFirmLabs/binwalk",
+        "usage": "Analyze and extract files from binary data",
+        "keyword": "binary analysis"
+      },
+      {
+        "title": "Ghidra",
+        "link": "https://ghidra-sre.org/",
+        "usage": "Open-source reverse engineering tool",
+        "keyword": "reverse engineering"
+      },
+      {
+        "title": "Zaproxy",
+        "link": "https://github.com/zaproxy/zaproxy",
+        "usage": "Web application security scanner",
+        "keyword": "vulnerability scanning"
+      },
+      {
+        "title": "FFUF",
+        "link": "https://github.com/ffuf/ffuf",
+        "usage": "Fast web fuzzer for finding hidden paths and files",
+        "keyword": "fuzzing"
+      },
+      {
+        "title": "Burp Suite Extensions",
+        "link": "https://portswigger.net/bappstore",
+        "usage": "Enhance Burp Suite with custom extensions",
+        "keyword": "web security"
+      },
+      {
+        "title": "WebShells",
+        "link": "https://github.com/JohnTroony/php-webshells",
+        "usage": "Collection of web shells for exploitation",
+        "keyword": "exploitation"
+      },
+      {
+        "title": "Dirbuster",
+        "link": "https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project",
+        "usage": "Brute force directories and files on web servers",
+        "keyword": "directory enumeration"
+      },
+      {
+        "title": "Digital Ocean DNS Recon",
+        "link": "https://github.com/digitalocean/doctl",
+        "usage": "Perform DNS record analysis and domain discovery",
+        "keyword": "DNS analysis"
+      },
+      {
+        "title": "Habu",
+        "link": "https://github.com/portantier/habu",
+        "usage": "Python-based tools for pentesting and network analysis",
+        "keyword": "network tools"
+      },
+      {
+        "title": "W3AF",
+        "link": "https://github.com/andresriancho/w3af",
+        "usage": "Web application attack and audit framework",
+        "keyword": "audit"
+      },
+      {
+        "title": "DnsTwist",
+        "link": "https://github.com/elceef/dnstwist",
+        "usage": "Detect typosquatting and phishing domains",
+        "keyword": "phishing detection"
+      },
+      {
+        "title": "CyberChef",
+        "link": "https://gchq.github.io/CyberChef/",
+        "usage": "Perform cryptographic and encoding operations",
+        "keyword": "cryptographic tools"
+      },
+      {
+        "title": "Python-Nmap",
+        "link": "https://github.com/thekvs/python-nmap",
+        "usage": "Use Nmap directly in Python scripts",
+        "keyword": "network scanning"
+      },
+      {
+        "title": "Shodan",
+        "link": "https://www.shodan.io/",
+        "usage": "Search engine for internet-connected devices",
+        "keyword": "reconnaissance"
+      },
+      {
+        "title": "Cryptomator",
+        "link": "https://cryptomator.org/",
+        "usage": "Encrypt files in cloud storage solutions",
+        "keyword": "data security"
+      },
+      {
+        "title": "OWASP Top 10",
+        "link": "https://owasp.org/www-project-top-ten/",
+        "usage": "Learn about the top vulnerabilities in web applications",
+        "keyword": "vulnerability knowledge"
+      },
+      {
+        "title": "Plaso",
+        "link": "https://github.com/log2timeline/plaso",
+        "usage": "Log file timeline analysis framework",
+        "keyword": "log analysis"
+      },
+      {
+        "title": "DNSDumpster",
+        "link": "https://dnsdumpster.com/",
+        "usage": "Visualize DNS records and associated infrastructure",
+        "keyword": "DNS reconnaissance"
+      },
+      {
+        "title": "FoFa",
+        "link": "https://fofa.info/",
+        "usage": "Search for exposed systems and IoT devices",
+        "keyword": "reconnaissance"
+      },
+      {
+        "title": "Intigriti",
+        "link": "https://www.intigriti.com/",
+        "usage": "Bug bounty and ethical hacking platform",
+        "keyword": "bug bounty"
+      },
+      {
+        "title": "CyberHUB",
+        "link": "https://cyberhub.io/",
+        "usage": "Comprehensive cybersecurity tools and training platform",
+        "keyword": "cybersecurity tools"
+      },
+      {
+        "title": "CertStream",
+        "link": "https://certstream.calidog.io/",
+        "usage": "Monitor SSL/TLS certificate transparency logs",
+        "keyword": "certificate monitoring"
+      },
+      {
+        "title": "PhishTank",
+        "link": "https://www.phishtank.com/",
+        "usage": "Verify and report phishing websites",
+        "keyword": "phishing detection"
+      },
+      {
+        "title": "Sherlock",
+        "link": "https://github.com/sherlock-project/sherlock",
+        "usage": "Find usernames across social networks",
+        "keyword": "OSINT"
+      },
+      {
+        "title": "Shodan Maps",
+        "link": "https://maps.shodan.io/",
+        "usage": "Visualize geolocated devices and services",
+        "keyword": "reconnaissance"
+      },
+      {
+        "title": "Cobalt Strike",
+        "link": "https://www.cobaltstrike.com/",
+        "usage": "Post-exploitation tool for red team operations",
+        "keyword": "red teaming"
+      },
+      {
+        "title": "Cybernews Tools",
+        "link": "https://cybernews.com/tools/",
+        "usage": "Free tools for checking data leaks, VPNs, and security",
+        "keyword": "cybersecurity tools"
+      },
+      {
+        "title": "Graylog",
+        "link": "https://www.graylog.org/",
+        "usage": "Centralized log management and analysis",
+        "keyword": "log management"
+      },
+      {
+        "title": "Chaos",
+        "link": "https://chaos.projectdiscovery.io/",
+        "usage": "Collect public bug bounty programs' subdomains",
+        "keyword": "subdomain collection"
+      },
+      {
+        "title": "DnsSpy",
+        "link": "https://dnsspy.io/",
+        "usage": "Monitor DNS records for unauthorized changes",
+        "keyword": "DNS monitoring"
+      },
+      {
+        "title": "CyberChef Recipes",
+        "link": "https://recipes.cryptography.io/",
+        "usage": "Shared recipes for encoding and decoding",
+        "keyword": "encoding tools"
+      },
+      {
+        "title": "Vulners",
+        "link": "https://vulners.com/",
+        "usage": "Search and monitor vulnerabilities by CVE",
+        "keyword": "vulnerability search"
+      },
+      {
+        "title": "Trace Labs",
+        "link": "https://www.tracelabs.org/",
+        "usage": "Crowdsourced OSINT for missing persons",
+        "keyword": "OSINT"
+      },
+      {
+        "title": "Dark Reading",
+        "link": "https://www.darkreading.com/",
+        "usage": "Cybersecurity news and analysis platform",
+        "keyword": "news"
+      },
+      {
+        "title": "PacketTotal",
+        "link": "https://packettotal.com/",
+        "usage": "Analyze and share PCAP files for free",
+        "keyword": "packet analysis"
+      },
+      {
+        "title": "CrackStation",
+        "link": "https://crackstation.net/",
+        "usage": "Decrypt password hashes using a large dictionary",
+        "keyword": "hash cracking"
+      },
+      {
+        "title": "RapidAPI Security",
+        "link": "https://rapidapi.com/security/",
+        "usage": "Find and test public APIs for vulnerabilities",
+        "keyword": "API testing"
+      },
+      {
+        "title": "Falcon Sandbox",
+        "link": "https://www.crowdstrike.com/products/falcon-sandbox/",
+        "usage": "Dynamic malware analysis and reporting",
+        "keyword": "malware analysis"
+      },
+      {
+        "title": "SecTools",
+        "link": "https://sectools.org/",
+        "usage": "Top security tools curated by experts",
+        "keyword": "tool list"
+      },
+      {
+        "title": "CyberTalents",
+        "link": "https://cybertalents.com/",
+        "usage": "Participate in cybersecurity challenges and CTFs",
+        "keyword": "CTF"
+      },
+      {
+        "title": "DNSTrails",
+        "link": "https://dnstrails.com/",
+        "usage": "Search historical DNS records",
+        "keyword": "DNS records"
+      },
+      {
+        "title": "Leakix",
+        "link": "https://leakix.net/",
+        "usage": "Discover internet-exposed services and leaks",
+        "keyword": "data leaks"
+      },
+      {
+        "title": "CyberGreen",
+        "link": "https://www.cybergreen.net/",
+        "usage": "Monitor and improve global cyber hygiene",
+        "keyword": "cyber hygiene"
+      },
+      {
+        "title": "Open Bug Bounty",
+        "link": "https://www.openbugbounty.org/",
+        "usage": "Disclose and fix security vulnerabilities responsibly",
+        "keyword": "bug bounty"
+      },
+      {
+        "title": "Anubis",
+        "link": "https://anubis.rocks/",
+        "usage": "OSINT and reconnaissance tool for domains",
+        "keyword": "OSINT"
+      },
+      {
+        "title": "ThreatMiner",
+        "link": "https://www.threatminer.org/",
+        "usage": "Search for threat intelligence and indicators of compromise",
+        "keyword": "threat intelligence"
+      },
+      {
+        "title": "Cybersixgill",
+        "link": "https://www.cybersixgill.com/",
+        "usage": "Monitor and analyze dark web activity",
+        "keyword": "dark web"
+      },
+      {
+        "title": "Triage",
+        "link": "https://triage.cyber.gc.ca/",
+        "usage": "Analyze malware and suspicious artifacts",
+        "keyword": "malware analysis"
+      },
+      {
+        "title": "AttackSurfaceMapper",
+        "link": "https://github.com/superhedgy/AttackSurfaceMapper",
+        "usage": "Generate a target's attack surface map",
+        "keyword": "reconnaissance"
+      },
+      {
+        "title": "DataSploit",
+        "link": "https://github.com/DataSploit/datasploit",
+        "usage": "Perform OSINT for domains, emails, and more",
+        "keyword": "OSINT"
+      },
+      {
+        "title": "Burp Collaborator",
+        "link": "https://portswigger.net/burp/documentation/collaborator",
+        "usage": "Identify server-side vulnerabilities like SSRF",
+        "keyword": "server testing"
+      },
+      {
+        "title": "Hack The Box Academy",
+        "link": "https://academy.hackthebox.com/",
+        "usage": "Learn ethical hacking through guided labs",
+        "keyword": "education"
+      },
+      {
+        "title": "Sigma",
+        "link": "https://github.com/SigmaHQ/sigma",
+        "usage": "Create generic rules for SIEM tools",
+        "keyword": "SIEM rules"
+      },
+      {
+        "title": "URLScan",
+        "link": "https://urlscan.io/",
+        "usage": "Scan and analyze the content of URLs",
+        "keyword": "URL analysis"
+      },
+      {
+        "title": "Wappalyzer",
+        "link": "https://www.wappalyzer.com/",
+        "usage": "Discover technologies powering websites",
+        "keyword": "web technologies"
+      },
+      {
+        "title": "ExploitMe Mobile",
+        "link": "https://github.com/OWASP/ExploitMeMobile",
+        "usage": "Learn mobile app security with vulnerable apps",
+        "keyword": "mobile security"
+      },
+      {
+        "title": "Hacktricks",
+        "link": "https://book.hacktricks.xyz/",
+        "usage": "Tips and tricks for penetration testing",
+        "keyword": "pentesting"
+      },
+      {
+        "title": "PentesterLand",
+        "link": "https://pentester.land/",
+        "usage": "Resources for bug bounty hunters and pentesters",
+        "keyword": "resources"
+      },
+      {
+        "title": "MyIP.ms",
+        "link": "https://myip.ms/",
+        "usage": "Check IP ownership and related domains",
+        "keyword": "IP tracking"
+      },
+      {
+        "title": "Vega",
+        "link": "https://subgraph.com/vega/",
+        "usage": "Web security vulnerability scanner",
+        "keyword": "vulnerability scanner"
+      },
+      {
+        "title": "OpenVAS",
+        "link": "https://www.openvas.org/",
+        "usage": "Comprehensive vulnerability assessment system",
+        "keyword": "vulnerability assessment"
+      },
+      {
+        "title": "Zeek",
+        "link": "https://zeek.org/",
+        "usage": "Network monitoring and analysis framework",
+        "keyword": "network monitoring"
+      },
+      {
+        "title": "HackMD",
+        "link": "https://hackmd.io/",
+        "usage": "Collaborative documentation for security teams",
+        "keyword": "documentation"
+      },
+      {
+        "title": "ZAP",
+        "link": "https://www.zaproxy.org/",
+        "usage": "Find security vulnerabilities in web applications",
+        "keyword": "vulnerability scanning"
+      },
+      {
+        "title": "SecurityTrails",
+        "link": "https://securitytrails.com/",
+        "usage": "Comprehensive DNS and IP data for security research",
+        "keyword": "IP intelligence"
+      }
+  ]
+  
